@@ -11,13 +11,30 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Fiber Optic Lighting for Wearable Tech: Beginner How-To Guide*
 
-*Insert URL to project*
+https://www.youtube.com/watch?v=nitoFevfIJg
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to my original project idea. Originally I was going to try and create a dress that showed a piece of artwork relating to music. The art-work was going to be animated and show on the skirt of the dress.
+
+
+### Related project 2 ###
+*Interactive Video Projection Dress: Wearable Tech*
+
+https://www.youtube.com/watch?v=su30-wiF7m4
+
+This was another lighting idea that I had for the dress, but I decided that making this dress would get way too expensive.
+
+
+### Related project 3 ###
+*LED Lights for Wearable Tech: Beginner How-To Guide*
+
+https://www.youtube.com/watch?v=FxvBVvBWh4I
+
+Watching this video gave me an insight on how cool LED's in fabric could look. From this video I came up with my final project idea.
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
