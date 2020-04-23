@@ -15,7 +15,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 https://www.youtube.com/watch?v=nitoFevfIJg
 
-![Image](missingimage.png)
 
 This project is related to my original project idea. Originally I was going to try and create a dress that showed a piece of artwork relating to music. The art-work was going to be animated and show on the skirt of the dress.
 
@@ -37,7 +36,9 @@ Watching this video gave me an insight on how cool LED's in fabric could look. F
 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+- Micro:bit experiment 2
+- Micro:bit experiment 9
+  - Capacitor charge circuit
 
 ### *Brief resource name/description* ###
 
@@ -49,15 +50,19 @@ Watching this video gave me an insight on how cool LED's in fabric could look. F
 *Include your design intent here. It should be about a 10 word phrase/sentence.*
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+*Interactive Toy Robot*
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+When interacted with in different ways, it will display different emotions with a sound and visual.
 
 ### Design concept 2 ###
-*Put details here.*
+*Holo Chess Board*
+
+Inspiration from the Holo Chess played in the Star Wars films.
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+*Fiber optic Dress/LED dress*
+
+For this project I wanted to be able to incorporate fibre optics and RGB LEDs. This would be achieved by serving the electronics into the dress.
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -76,7 +81,13 @@ Ensure you include comments about the choices you've made along the way.*
 ![Image](missingimage.png)
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+For this project I decided to create a dress that displays different colours depending on the amount of light. I had two different ideas for now to illuminate the dress.
+- Fibre optics with LED lights
+- Wire LED's
+
+The lighting option I chose for this project was the cheapest lighting option that I could come up with and the most effective with the materials that I have.
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+- Complete sewing the dress
+- Sew the electronics into the dress
+- Film the dress in action
