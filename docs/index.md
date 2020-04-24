@@ -52,21 +52,21 @@ Watching this video gave me an insight on how cool LED's in fabric could look. F
 ### Design concept 1 ###
 *Interactive Toy Robot*
 
-![Image](img/ideas.png)
+![Image](img/ideas.jpg)
 
 When interacted with in different ways, it will display different emotions with a sound and visual.
 
 ### Design concept 2 ###
 *Holo Chess Board*
 
-![Image](img/holo.png) ![Image](img/holo_2.png)
+![Image](img/holo.jpg) ![Image](img/holo_2.jpg)
 
 Inspiration from the Holo Chess played in the Star Wars films.
 
 ### Final design concept ###
 *Fiber optic Dress/LED dress*
 
-![Image](img/howto.png)
+![Image](img/howto.jpg)
 
 For this project I wanted to be able to incorporate fibre optics and RGB LEDs. This would be achieved by serving the electronics into the dress.
 
@@ -84,7 +84,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](img/Pattern_Pieces.png) [Image](img/Pattern_Pieces_2.png) [Image](img/Pattern_Pieces_3.png) ![Image](img/LED_warm_cool.png) ![Image](img/sewing.png) ![Image](img/sewing_2.png) ![Image](img/seam_boddice.png)
+![Image](img/Pattern_Pieces.jpg) [Image](img/Pattern_Pieces_2.jpg) [Image](img/Pattern_Pieces_3.jpg) ![Image](img/LED_warm_cool.jpg) ![Image](img/sewing.jpg) ![Image](img/sewing_2.jpg) ![Image](img/seam_boddice.jpg)
 
 ## Design process discussion ##
 For this project I decided to create a dress that displays different colours depending on the amount of light. I had two different ideas for now to illuminate the dress.
